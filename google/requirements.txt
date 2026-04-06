@@ -1,0 +1,7 @@
+pymysql
+qrcode
+flask
+flask-cors
+cryptography
+fpdf
+pillow
